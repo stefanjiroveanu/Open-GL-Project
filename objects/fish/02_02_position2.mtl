@@ -1,0 +1,9 @@
+# MTL written from 02_02_position2.obj
+newmtl 02_02
+Kd 1 1 1
+Ns 4
+d 1
+illum 2
+Ka 1 1 1
+Ks 0 0 0
+map_Kd 02_02.jpg

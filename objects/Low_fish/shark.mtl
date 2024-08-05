@@ -1,0 +1,38 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 22.10.2017 15:00:16
+
+newmtl Shark
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tf 1.0000 1.0000 1.0000
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Kd shark_Shark_AlbedoTransparency.png
+
+newmtl Eyes
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tf 1.0000 1.0000 1.0000
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Kd shark_Eyes_AlbedoTransparency.png
+
+newmtl Teeth
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tf 1.0000 1.0000 1.0000
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Kd shark_Teeth_AlbedoTransparency.png

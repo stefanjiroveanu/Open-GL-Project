@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Lab9"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/stefan_jiroveanu/proiect lab/Lab9/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/stefan_jiroveanu/proiect\ lab/Lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/stefan_jiroveanu/proiect\ lab/Lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/stefan_jiroveanu/proiect\ lab/Lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/stefan_jiroveanu/proiect\ lab/Lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Lab9">
+				<Option output="/home/stefan_jiroveanu/proiect lab/Lab9/cmake-build-debug/Lab9" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/stefan_jiroveanu/proiect lab/Lab9/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/stefan_jiroveanu/proiect lab/Lab9/../Lab9"/>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/stefan_jiroveanu/proiect\ lab/Lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 Lab9"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/stefan_jiroveanu/proiect\ lab/Lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/stefan_jiroveanu/proiect\ lab/Lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/stefan_jiroveanu/proiect\ lab/Lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Lab9/fast">
+				<Option output="/home/stefan_jiroveanu/proiect lab/Lab9/cmake-build-debug/Lab9" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/stefan_jiroveanu/proiect lab/Lab9/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/stefan_jiroveanu/proiect lab/Lab9/../Lab9"/>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/stefan_jiroveanu/proiect\ lab/Lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 Lab9/fast"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/stefan_jiroveanu/proiect\ lab/Lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/stefan_jiroveanu/proiect\ lab/Lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/stefan_jiroveanu/proiect\ lab/Lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/stefan_jiroveanu/proiect lab/Lab9/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/stefan_jiroveanu/proiect\ lab/Lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/stefan_jiroveanu/proiect\ lab/Lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/stefan_jiroveanu/proiect\ lab/Lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/stefan_jiroveanu/proiect\ lab/Lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/stefan_jiroveanu/proiect lab/Lab9/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/stefan_jiroveanu/proiect\ lab/Lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/stefan_jiroveanu/proiect\ lab/Lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/stefan_jiroveanu/proiect\ lab/Lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/stefan_jiroveanu/proiect\ lab/Lab9/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/stefan_jiroveanu/proiect lab/Lab9/Camera.cpp">
+			<Option target="Lab9"/>
+		</Unit>
+		<Unit filename="/home/stefan_jiroveanu/proiect lab/Lab9/Camera.hpp">
+			<Option target="Lab9"/>
+		</Unit>
+		<Unit filename="/home/stefan_jiroveanu/proiect lab/Lab9/Mesh.cpp">
+			<Option target="Lab9"/>
+		</Unit>
+		<Unit filename="/home/stefan_jiroveanu/proiect lab/Lab9/Mesh.hpp">
+			<Option target="Lab9"/>
+		</Unit>
+		<Unit filename="/home/stefan_jiroveanu/proiect lab/Lab9/Model3D.cpp">
+			<Option target="Lab9"/>
+		</Unit>
+		<Unit filename="/home/stefan_jiroveanu/proiect lab/Lab9/Model3D.hpp">
+			<Option target="Lab9"/>
+		</Unit>
+		<Unit filename="/home/stefan_jiroveanu/proiect lab/Lab9/Shader.cpp">
+			<Option target="Lab9"/>
+		</Unit>
+		<Unit filename="/home/stefan_jiroveanu/proiect lab/Lab9/Shader.hpp">
+			<Option target="Lab9"/>
+		</Unit>
+		<Unit filename="/home/stefan_jiroveanu/proiect lab/Lab9/main.cpp">
+			<Option target="Lab9"/>
+		</Unit>
+		<Unit filename="/home/stefan_jiroveanu/proiect lab/Lab9/stb_image.cpp">
+			<Option target="Lab9"/>
+		</Unit>
+		<Unit filename="/home/stefan_jiroveanu/proiect lab/Lab9/stb_image.h">
+			<Option target="Lab9"/>
+		</Unit>
+		<Unit filename="/home/stefan_jiroveanu/proiect lab/Lab9/tiny_obj_loader.cpp">
+			<Option target="Lab9"/>
+		</Unit>
+		<Unit filename="/home/stefan_jiroveanu/proiect lab/Lab9/tiny_obj_loader.h">
+			<Option target="Lab9"/>
+		</Unit>
+		<Unit filename="/home/stefan_jiroveanu/proiect lab/Lab9/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

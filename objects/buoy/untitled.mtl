@@ -1,0 +1,13 @@
+# Blender 3.4.1 MTL File: 'None'
+# www.blender.org
+
+newmtl Bouée_Baked
+Ka 1.000000 1.000000 1.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Bouée_Bake2_PBR_Diffuse.png
+map_Ks Bouée_Bake2_PBR_Specular.png
+map_Ns Buoy.fbm
+map_refl Buoy.fbm
+map_Ke Buoy.fbm

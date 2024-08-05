@@ -1,0 +1,430 @@
+# Blender MTL File: 'Ship_01B_Close_Sails.blend'
+# Material Count: 36
+
+newmtl M_Ship01B_BarrelMetal_01
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump T_Ship01B_BarrelMetal_01_Normal.png
+map_Kd T_Ship01B_BarrelMetal_01_Diffuse.png
+
+newmtl M_Ship01B_BarrelMetal_02
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump T_Ship01B_BarrelMetal_02_Normal.png
+map_Kd T_Ship01B_BarrelMetal_02_Diffuse.png
+
+newmtl M_Ship01B_BarrelWood_01
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump T_Ship01B_BarrelWood_01_Normal.png
+map_Kd T_Ship01B_BarrelWood_01_Diffuse.png
+
+newmtl M_Ship01B_BarrelWood_02
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump T_Ship01B_BarrelWood_02_Normal.png
+map_Kd T_Ship01B_BarrelWood_02_Diffuse.png
+
+newmtl M_Ship01B_Cannon
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump T_Ship01B_Cannon_Normal.png
+map_Kd T_Ship01B_Cannon_Diffuse.png
+
+newmtl M_Ship01B_CannonAxel
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump T_Ship01B_CannonAxel_Normal.png
+map_Kd T_Ship01B_CannonAxel_Diffuse.png
+
+newmtl M_Ship01B_CannonMetal
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump T_Ship01B_CannonMetal_Normal.png
+map_Kd T_Ship01B_CannonMetal_Diffuse.png
+
+newmtl M_Ship01B_CannonRope
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl M_Ship01B_CannonRope_Holder
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump T_Ship01B_CannonRope_Holder_Normal.png
+map_Kd T_Ship01B_CannonRope_Holder_Diffuse.png
+
+newmtl M_Ship01B_CannonSides
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump T_Ship01B_CannonSides_Normal.png
+map_Kd T_Ship01B_CannonSides_Diffuse.png
+
+newmtl M_Ship01B_CannonSupport
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump T_Ship01B_CannonSupport_Normal.png
+map_Kd T_Ship01B_CannonSupport_Diffuse.png
+
+newmtl M_Ship01B_CannonWheels
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump T_Ship01B_CannonWheels_Normal.png
+map_Kd T_Ship01B_CannonWheels_Diffuse.png
+
+newmtl M_Ship01B_FigureHead.001
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump T_Ship01B_FigureHead_Normal.png
+map_Kd T_Ship01B_FigureHead_Diffuse.png
+
+newmtl M_Ship01B_Flag_01
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump T_Ship01B_Flag_01_Normal.png
+map_Kd T_Ship01B_Flag_01_Diffuse.png
+
+newmtl M_Ship01B_Flag_02
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump T_Ship01B_Flag_02_Normal.png
+map_Kd T_Ship01B_Flag_02_Diffuse.png
+
+newmtl M_Ship01B_Glass
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl M_Ship01B_Lantern
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump T_Ship01B_Lantern_Normal.png
+map_Kd T_Ship01B_Lantern_Diffuse.png
+
+newmtl M_Ship01B_MetalRusty
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump T_Ship01B_MetalRusty_Normal.png
+map_Kd T_Ship01B_MetalRusty_Diffuse.png
+
+newmtl M_Ship01B_MetalRusty.002
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump T_Ship01B_MetalRusty_Normal.png
+map_Kd T_Ship01B_MetalRusty_Diffuse.png
+
+newmtl M_Ship01B_Plank_01
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump T_Ship01B_Plank_01_Normal.png
+map_Kd T_Ship01B_Plank_01_Diffuse.png
+
+newmtl M_Ship01B_Plank_02
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump T_Ship01B_Plank_02_Normal.png
+map_Kd T_Ship01B_Plank_02_Diffuse.png
+
+newmtl M_Ship01B_Plank_03
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump T_Ship01B_Plank_03_Normal.png
+map_Kd T_Ship01B_Plank_03_Diffuse.png
+
+newmtl M_Ship01B_Plank_04
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump T_Ship01B_Plank_04_Normal.png
+map_Kd T_Ship01B_Plank_04_Diffuse.png
+
+newmtl M_Ship01B_Plank_05
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump T_Ship01B_Plank_05_Normal.png
+map_Kd T_Ship01B_Plank_05_Diffuse.png
+
+newmtl M_Ship01B_Rope_01
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump T_Ship01B_Rope_01_Normal.png
+map_Kd T_Ship01B_Rope_01_Diffuse.png
+
+newmtl M_Ship01B_Rope_02
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump T_Ship01B_Rope_02_Normal.png
+map_Kd T_Ship01B_Rope_02_Diffuse.png
+
+newmtl M_Ship01B_Rope_02.002
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump T_Ship01B_Rope_02_Normal.png
+map_Kd T_Ship01B_Rope_02_Diffuse.png
+
+newmtl M_Ship01B_Rope_03
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump T_Ship01B_Rope_03_Normal.png
+map_Kd T_Ship01B_Rope_03_Diffuse.png
+
+newmtl M_Ship01B_Rope_04
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump T_Ship01B_Rope_04_Normal.png
+map_Kd T_Ship01B_Rope_04_Diffuse.png
+
+newmtl M_Ship01B_Sail.002
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump T_Ship01B_Sail_Normal.png
+map_Kd T_Ship01B_Sail_Diffuse.png
+
+newmtl M_Ship01B_Spyglass
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump T_Ship01B_Spyglass_Normal.png
+map_Kd T_Ship01B_Spyglass_Diffuse.png
+
+newmtl M_Ship01B_WoodBrown
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump T_Ship01B_WoodBrown_Normal.png
+map_Kd T_Ship01B_WoodBrown_Diffuse.png
+
+newmtl M_Ship01B_WoodDark
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump T_Ship01B_WoodDark_Normal.png
+map_Kd T_Ship01B_WoodDark_Diffuse.png
+
+newmtl M_Ship01B_WoodPlain_01
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump T_Ship01B_WoodPlain_01_Normal.png
+map_Kd T_Ship01B_WoodPlain_01_Diffuse.png
+
+newmtl M_Ship01B_WoodPlain_02
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump T_Ship01B_WoodPlain_02_Normal.png
+map_Kd T_Ship01B_WoodPlain_02_Diffuse.png
+
+newmtl M_Ship01B_WoodPlain_03
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump T_Ship01B_WoodPlain_03_Normal.png
+map_Kd T_Ship01B_WoodPlain_03_Diffuse.png
